@@ -1,0 +1,14 @@
+{
+    "name": "ampersandhq/okta-jwt-verifier-php-example",
+    "authors": [
+        {
+            "name": "Luke Rodgers",
+            "email": "lr@amp.co"
+        }
+    ],
+    "require": {
+        "okta/jwt-verifier": "^1.2",
+        "guzzlehttp/psr7": "^2.0",
+        "firebase/php-jwt": "^5.4"
+    }
+}
